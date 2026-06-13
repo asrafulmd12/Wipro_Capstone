@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-13T01:52:53 IST" name="Suite" finished-at="2026-06-13T01:53:39 IST" duration-ms="45843">
+    <groups>
+    </groups>
+    <test started-at="2026-06-13T01:52:53 IST" name="BlogSpotTests" finished-at="2026-06-13T01:53:39 IST" duration-ms="45843">
+      <class name="tests.BlogSpotTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.BlogSpotTest@61322f9d]" started-at="2026-06-13T01:52:53 IST" name="setup" finished-at="2026-06-13T01:53:16 IST" duration-ms="22249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setupPage()[pri:0, instance:tests.BlogSpotTest@61322f9d]" started-at="2026-06-13T01:53:16 IST" name="setupPage" finished-at="2026-06-13T01:53:16 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupPage -->
+        <test-method signature="formDetailsTest()[pri:1, instance:tests.BlogSpotTest@61322f9d]" started-at="2026-06-13T01:53:16 IST" name="formDetailsTest" finished-at="2026-06-13T01:53:20 IST" duration-ms="3831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- formDetailsTest -->
+        <test-method signature="dropdownSelectionTest()[pri:2, instance:tests.BlogSpotTest@61322f9d]" started-at="2026-06-13T01:53:20 IST" name="dropdownSelectionTest" finished-at="2026-06-13T01:53:21 IST" duration-ms="1166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdownSelectionTest -->
+        <test-method signature="datePickerTest()[pri:3, instance:tests.BlogSpotTest@61322f9d]" started-at="2026-06-13T01:53:21 IST" name="datePickerTest" finished-at="2026-06-13T01:53:23 IST" duration-ms="2383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datePickerTest -->
+        <test-method signature="fileUploadTest()[pri:4, instance:tests.BlogSpotTest@61322f9d]" started-at="2026-06-13T01:53:23 IST" name="fileUploadTest" finished-at="2026-06-13T01:53:24 IST" duration-ms="1192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fileUploadTest -->
+        <test-method signature="paginationTableTest()[pri:5, instance:tests.BlogSpotTest@61322f9d]" started-at="2026-06-13T01:53:24 IST" name="paginationTableTest" finished-at="2026-06-13T01:53:25 IST" duration-ms="831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paginationTableTest -->
+        <test-method signature="inputFormSectionTest()[pri:6, instance:tests.BlogSpotTest@61322f9d]" started-at="2026-06-13T01:53:25 IST" name="inputFormSectionTest" finished-at="2026-06-13T01:53:27 IST" duration-ms="1367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputFormSectionTest -->
+        <test-method signature="wikipediaTest()[pri:7, instance:tests.BlogSpotTest@61322f9d]" started-at="2026-06-13T01:53:27 IST" name="wikipediaTest" finished-at="2026-06-13T01:53:29 IST" duration-ms="2301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikipediaTest -->
+        <test-method signature="alertTest()[pri:8, instance:tests.BlogSpotTest@61322f9d]" started-at="2026-06-13T01:53:29 IST" name="alertTest" finished-at="2026-06-13T01:53:30 IST" duration-ms="946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alertTest -->
+        <test-method signature="windowAndTabTest()[pri:9, instance:tests.BlogSpotTest@61322f9d]" started-at="2026-06-13T01:53:30 IST" name="windowAndTabTest" finished-at="2026-06-13T01:53:32 IST" duration-ms="1656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowAndTabTest -->
+        <test-method signature="actionsLaptopBrokenLinksAndShadowDomTest()[pri:10, instance:tests.BlogSpotTest@61322f9d]" started-at="2026-06-13T01:53:32 IST" name="actionsLaptopBrokenLinksAndShadowDomTest" finished-at="2026-06-13T01:53:38 IST" duration-ms="6697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actionsLaptopBrokenLinksAndShadowDomTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.BlogSpotTest@61322f9d]" started-at="2026-06-13T01:53:38 IST" name="tearDown" finished-at="2026-06-13T01:53:39 IST" duration-ms="527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.BlogSpotTest -->
+    </test> <!-- BlogSpotTests -->
+  </suite> <!-- Suite -->
+</testng-results>
